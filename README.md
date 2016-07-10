@@ -1,13 +1,32 @@
-# sundyCoder
+Freelancer Jekyll theme
+=========================
 
-**你可以在以下平台找到我哦，点击对应的图标即可，请认准sundyCoder.
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
-<a href="http://www.jianshu.com/users/119337bb4467/timeline"  target="_blank">  <img src="http://ww3.sinaimg.cn/large/005Xtdi2gw1f1pyg6uniyj303k03ka9x.jpg"   /></a> |                                                                                                                                                                                                <a href="http://weibo.com/u/2060818294" target="_blank"> <img src="http://ww1.sinaimg.cn/large/005Xtdi2jw1f1r3v5dge8j303k03kwee.jpg"/></a> |                                                                                                                                      <a
-href="https://github.com/sundycoder" target="_blank"> <img 
-src="http://ww2.sinaimg.cn/large/005Xtdi2gw1f1pyjf8vx7j303k03kglh.jpg"   /></a> |                                                                                                                               <a 
-href="https://www.zhihu.com/people/sundy-41" target="_blank"> 
-<img src="http://ww1.sinaimg.cn/large/005Xtdi2gw1f1pyo2hyqgj303k03kmx1.jpg"   /></a> |                                                   <a href="https://www.technologyreview.com/" target="_blank"> </a>          
+## How to use
+ - Place a image in `/img/portfolio/`
+ - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
+alt: image-alt
+project-date: July 2014
+client: The Client
+category: Web Development
+description: The description of the project
 
-:---:|:---:|:---:|:---:|:---:|:---:                                                                                                         
-**[简书](http://www.jianshu.com/users/119337bb4467/timeline)** |                                                             **[微博](http://weibo.com/u/2060818294)** |                                                                                           **[GitHub](https://github.com/sundycoder)** |                                                                                       **[知乎](https://www.zhihu.com/people/sundy-41)** |                                                                    **[MIT科技报](https://www.technologyreview.com/)**
+---
+```
 
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+
+=========
+For more details, read the [documentation](http://jekyllrb.com/)
