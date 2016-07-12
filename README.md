@@ -24,9 +24,10 @@
 
 * **个人主页:** [个人主页](http://sundycoder.github.io/)
 * **发邮件到**: <a href="mailto:sundyCoder@gmail.com">sundyCoder@gmail.com</a> 
-* **Github博客**：[Blog]()
+* **Github博客**：[Blog](https://github.com/sundyCoder/CSK)
 * **微博私信**
 * **GitHub提交Issues**
-* **微信公众号**
+
+#![](http://i.imgur.com/S7xBFja.png)微信公众号#
 ![wechat](http://i.imgur.com/1TDj1p7.jpg)
 
