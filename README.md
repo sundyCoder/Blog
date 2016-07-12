@@ -1,4 +1,4 @@
-# ![](http://i.imgur.com/S7xBFja.png)SundyCoder
+# ![](http://i.imgur.com/S7xBFja.png)Sundy
 
 ## ![](http://i.imgur.com/S7xBFja.png)About Me
 
