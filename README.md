@@ -1,32 +1,32 @@
-Freelancer Jekyll theme
-=========================
+# sundyCoder
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
+## About Me
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `you@email.com` in `_includes/contact_static.html` with your email address. refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+**你可以在以下平台找到我，点击对应的图标即可.**
 
----
-```
+(You can find me from the following link)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+**你也可以通过google搜索关键字 sundyCoder在其他平台找到我**.
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+(You also can find me from google 'sundyCoder')
 
-=========
-For more details, read the [documentation](http://jekyllrb.com/)
+# Github-------知乎-------微博-------简书#
+<a href="https://github.com/sundyCoder" target="_blank"> <img src="http://ww2.sinaimg.cn/large/005Xtdi2gw1f1pyjf8vx7j303k03kglh.jpg"   /></a> 
+<a href="https://www.zhihu.com/people/sundyCoder" target="_blank"> <img src="http://ww4.sinaimg.cn/large/005Xtdi2gw1f1pyqdjk92j303k03k747.jpg"  target="_blank"/></a> 
+<a href="http://weibo.com/u/2060818294" target="_blank"> <img src="http://ww1.sinaimg.cn/large/005Xtdi2jw1f1r3v5dge8j303k03kwee.jpg"/></a> <a href="http://www.jianshu.com/users/119337bb4467/timeline"  target="_blank">  <img src="http://ww3.sinaimg.cn/large/005Xtdi2gw1f1pyg6uniyj303k03ka9x.jpg"   /></a>
+
+## **联系我**
+(Contact Me)
+
+**你可以通过以下几种方式联系到我**
+
+(You can contact with me from the following ways.)
+
+* 访问个人主页:[主页](http://sundycoder.github.io/)
+* 发邮件到: <a href="mailto:sundyCoder@gmail.com">sundyCoder@gmail.com</a> 
+* 微博私信
+* GitHub提交Issues
+
+
+
+
