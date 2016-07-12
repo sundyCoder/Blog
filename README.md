@@ -22,10 +22,12 @@
 
 (You can contact with me from the following ways.)
 
-* 访问个人主页:[主页](http://sundycoder.github.io/)
+* 个人主页: [个人主页](http://sundycoder.github.io/)
 * 发邮件到: <a href="mailto:sundyCoder@gmail.com">sundyCoder@gmail.com</a> 
+* Github博客：[Blog]()
 * 微博私信
 * GitHub提交Issues
+
 
 
 
